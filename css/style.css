@@ -485,8 +485,20 @@ body     { pointer-events: none; }
     display: block;
 }
 
-.intro {
+#intro {
     background-image: url("../img/feather.png");
     background-position: bottom left;
+    background-repeat: no-repeat;
+}
+
+#intro2 {
+    background-image: url("../img/old-wheel.jpg");
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+#intro3 {
+    background-image: url("../img/new-wheel.jpg");
+    background-position: bottom right;
     background-repeat: no-repeat;
 }
