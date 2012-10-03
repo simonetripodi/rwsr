@@ -484,3 +484,9 @@ body     { pointer-events: none; }
 .impress-not-supported .fallback-message {
     display: block;
 }
+
+.intro {
+    background-image: url("../img/feather.png");
+    background-position: bottom left;
+    background-repeat: no-repeat;
+}
